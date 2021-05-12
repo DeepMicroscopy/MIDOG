@@ -1,5 +1,7 @@
 ### Quantifying the Scanner-Induced Domain Gap in Mitosis Detection
 
+This is the code used in the experiments reported about in our paper:
+> M. Aubreville et al.: Quantifying the Scanner-Induced Domain Gap in Mitosis Detection (MIDL 2021)
 
 Dependencies:
 - MIDOG dataset (available through: [https://zenodo.org/record/4643381#.YGGOYi221mB])
