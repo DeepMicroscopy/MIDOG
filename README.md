@@ -1,4 +1,4 @@
-[MIDOG logo](img/cropped-midog_at_miccai-2.png)
+![MIDOG logo](img/cropped-midog_at_miccai-2.png)
 
 Welcome to the MIDOG github repository. Here you can find code of our own evaluations and a dockered reference algorithm for mitotic figures to use as a template.
 
