@@ -6,3 +6,5 @@ The folder [DomainShiftQuantization](https://github.com/DeepPathology/MIDOG/tree
 
 The folder gc-midog-docker-reference contains a reference docker container with a baseline algorithm for the MIDOG challenge.
 
+And finally, the folder [databases](https://github.com/DeepPathology/MIDOG/tree/main/databases) contains all databases (annotations) of the MIDOG challenge training set.
+ 
