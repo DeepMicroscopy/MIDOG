@@ -6,7 +6,9 @@ If you haven't registered yet and want to take part in the challenge, please reg
 
 The folder [DomainShiftQuantization](https://github.com/DeepPathology/MIDOG/tree/main/DomainShiftQuantification) contains code of our MIDL paper [Quantifying the Scanner-Induced Domain Gap in Mitosis Detection](https://arxiv.org/pdf/2103.16515.pdf).
 
-The repository MIDOG_reference_docket (http://github.com/DeepPathology/MIDOG_reference_docker) contains a reference docker container with a baseline algorithm for the MIDOG challenge.
+The repository [MIDOG_reference_docker](http://github.com/DeepPathology/MIDOG_reference_docker) contains a reference docker container with a baseline algorithm for the MIDOG challenge.
+
+We also make available the [evaluation container for the challenge](https://github.com/DeepPathology/MIDOG_evaluation_docker) as a separate repository  (without the ground truth data itself). 
 
 And finally, the folder [databases](https://github.com/DeepPathology/MIDOG/tree/main/databases) contains all databases (annotations) of the MIDOG challenge training set.
  
